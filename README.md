@@ -1,9 +1,7 @@
 <img align="left" src="Development/Images/Logo.png" width="100px"/>
-<h1>Open Alpha Engine</h1>
-<a href="https://marketplace.visualstudio.com/items?itemName=Flax.FlaxVS"><img src="https://img.shields.io/badge/vs-extension-green.svg"/></a>
-<a href="https://flaxengine.com/discord"><img src="https://discordapp.com/api/guilds/437989205315158016/widget.png"/></a>
+<h1>OB3DGGE</h1>
 
-Flax Engine is a high quality modern 3D game engine written in C++ and C#.
+Open Beta 3D Games Group Engine is a high quality modern 3D game engine written in C++ and C#.
 From stunning graphics to powerful scripts, it's designed for fast workflow with many ready-to-use features waiting for you right now. To learn more see the website ([www.flaxengine.com](https://flaxengine.com)).
 
 This repository contains full source code of the Flax Engine (excluding NDA-protected platforms support). Anyone is welcome to contribute or use the modified source in Flax-based games.
